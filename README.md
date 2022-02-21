@@ -1,8 +1,6 @@
 
 # 👌 Kubectl Sheetcheat
 
-**Notes**: This cheatsheet is part of **[Learn Kubernetes by Building 10 projects](https://learn.faun.dev)** ebook.
-
 🍴 Fork and contribute. Your contribution is welcome 🙌
 
 ![](img/header.png)
